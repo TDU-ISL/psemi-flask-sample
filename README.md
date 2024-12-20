@@ -1,5 +1,5 @@
 # psemi-flask-sample
-P講習 flaskアプリ開発用リポジトリ
+P講習 Flask講義用リポジトリ
 
 ## 起動方法
 1. 仮想環境の作成・アクティベート
